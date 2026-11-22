@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+# Betriebsverzeichnis nur einchecken, wenn die Nutzungsbedingungen das erlauben (siehe README)
+data/bltu.json
+# Rohdaten der BVL-Liste
+data/*.csv
+data/*.xlsx
